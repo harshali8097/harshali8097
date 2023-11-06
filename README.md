@@ -1,2 +1,2 @@
-
+Plant Disease Detection
 
